@@ -43,3 +43,6 @@ printer etc.
 - The information of all users must be stored in a database that is accessible by the Event Management System.
 - The system should have the general report stored.
 - On the basis of listing requirements and specification the project will be developed and run.
+
+# ER Diagram
+
